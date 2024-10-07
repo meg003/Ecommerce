@@ -1,0 +1,1 @@
+This project analyzes survey data from 2,676 millennials to determine which social media platform (Facebook, Instagram, Snapchat, Twitter) most influences online shopping. The dataset, sourced from Whatsgoodly, was cleaned and visualized using Python. The analysis shows that all four platforms had a relatively equal impact on participants' online shopping habits.
